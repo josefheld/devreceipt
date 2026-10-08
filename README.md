@@ -10,7 +10,7 @@ and what is still open. Every statement rests on an Evidence Ledger the client c
 ## Status
 
 Private beta, dogfooded on a real client project. First focus: macOS, Git repositories,
-Claude Code for the writing.
+Claude Code or Codex for the writing.
 
 Request access: https://kigazon.com/devreceipt.html
 
