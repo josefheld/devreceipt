@@ -1,0 +1,13 @@
+{
+  "name": "devreceipt",
+  "owner": {
+    "name": "Josef Held"
+  },
+  "plugins": [
+    {
+      "name": "devreceipt",
+      "source": "./plugin",
+      "description": "Shows for every pull request what was demonstrably checked, and what was not"
+    }
+  ]
+}

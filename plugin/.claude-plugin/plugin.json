@@ -1,0 +1,11 @@
+{
+  "name": "devreceipt",
+  "description": "Shows for every change what was demonstrably checked, and what was not: which tests, typechecks, lints and builds ran after the last change, recorded from the agent's tool calls (paths, commands, exit codes and counts; never file contents).",
+  "author": {
+    "name": "Josef Held"
+  },
+  "metadata": {
+    "released": "2026-10-23",
+    "kind": "feature"
+  }
+}
