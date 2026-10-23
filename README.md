@@ -52,5 +52,7 @@ hold a secret are stored as `[REDACTED]`.
 
 ## License
 
-DevReceipt costs 49 EUR once, per developer, with 12 months of updates; compatibility fixes keep coming after that.
-https://kigazon.com/devreceipt.html
+DevReceipt is in beta and not open for purchase yet. Beta access on request: https://kigazon.com/devreceipt.html
+
+Once it is open, DevReceipt costs 49 EUR once, per developer, with 12 months of updates; compatibility fixes keep
+coming after that.
